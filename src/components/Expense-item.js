@@ -1,9 +1,11 @@
-import React from 'react'
+import './expense-item.css'
 
 function ExpenseItem(props) {
     return (
-        <div>
+        <div className="expense-item">
             <h2>Expense Item TITLE</h2>
+
+            <div><p>DATE</p></div>
             <div><p>DESC</p></div>
             <div><h3>PRICE</h3></div>
         </div>

@@ -1,4 +1,5 @@
-# Summer Bootcamp by React App
+# Summer Bootcamp
+Building a front end with React App to teach at the VHacker code camp.
 
 
 ### Deployment
